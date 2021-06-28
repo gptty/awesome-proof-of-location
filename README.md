@@ -6,6 +6,6 @@
 [XYO](https://xyo.network/network/)
 
 ## Global systems
-[Spoofs, Proofs & Jamming](https://insidegnss.com/spoofs-proofs-jamming/)
+[Spoofs, Proofs & Jamming](https://insidegnss.com/spoofs-proofs-jamming/) by Logan Scott
 
 [Blockchain Proof of Location](https://medium.com/@BobMcElrath/blockchain-proof-of-location-7af5eb8073c1)
