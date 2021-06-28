@@ -2,4 +2,4 @@
 
 ## Local systems
 
-## Global systems proposed
+## Global systems
