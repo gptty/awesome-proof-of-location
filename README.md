@@ -7,6 +7,8 @@ It has inspired amounts of researches and has reached the state of early adoptio
 
 [XYO](https://xyo.network/network/)
 
+[Animist](http://animist.io/)
+
 ## Global systems
 While no working system, there has been several proposals on that.
 
