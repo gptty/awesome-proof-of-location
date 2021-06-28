@@ -7,7 +7,7 @@ Which has inspired amounts of researches and has reached the state of early adop
 
 [FOAM](https://www.foam.space/)
 
-[XYO](https://xyo.network/network/)
+[XYO](https://xyo.network/network/) ([interview](https://mapscaping.com/blogs/the-mapscaping-podcast/proof-of-location-bringing-the-blockchain-to-the-real-world))
 
 [Animist](http://animist.io/)
 
