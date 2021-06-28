@@ -2,6 +2,7 @@
 
 ## Local systems
 has inspired amount of researches and has reached of early adoption.
+
 [FOAM](https://www.foam.space/)
 
 [XYO](https://xyo.network/network/)
