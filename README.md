@@ -1,7 +1,7 @@
 # Awesome Proof-of-Location
 
 ## Local systems
-This field has inspired amounts of researches and has reached the state of early adoption.
+It has inspired amounts of researches and has reached the state of early adoption.
 
 [FOAM](https://www.foam.space/)
 
