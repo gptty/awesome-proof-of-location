@@ -1,2 +1,2 @@
-# awesome-proof-of-location
-test
+# Awesome Proof-of-Location
+
