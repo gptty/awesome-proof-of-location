@@ -11,6 +11,8 @@ Which has inspired amounts of researches and has reached the state of early adop
 
 [Animist](http://animist.io/)
 
+[Platin](https://medium.com/@platin_io) (discontinued)
+
 ## Global systems
 While yet to realize to date, it has attracted curiosities.
 
