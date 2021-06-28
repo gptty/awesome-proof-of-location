@@ -1,6 +1,6 @@
 # Awesome Proof-of-Location
 
-[Proof of Location](https://tokens-economy.gitbook.io/consensus/chain-based-proof-of-capacity-space/dynamic-proof-of-location) wiki article
+[Proof of Location](https://tokens-economy.gitbook.io/consensus/chain-based-proof-of-capacity-space/dynamic-proof-of-location) consensus wiki
 
 ## Local systems
 Which has inspired amounts of researches and has reached the state of early adoption.
