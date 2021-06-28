@@ -12,7 +12,7 @@ Which has inspired amounts of researches and has reached the state of early adop
 [Animist](http://animist.io/)
 
 ## Global systems
-While no working system to date, it has attracted curiosities.
+While yet to realize to date, it has attracted curiosities.
 
 Pretty Good Proof of Location, as described in [Spoofs, Proofs & Jamming](https://insidegnss.com/spoofs-proofs-jamming/) by Logan Scott ([presentation](https://vimeo.com/85571093#t=16m01s)), where the system in proposal would provide the 
 proof-of-location of an object's whereabouts 5 minutes ago or so.
