@@ -7,7 +7,7 @@ Which has inspired amounts of researches and has reached the state of early adop
 
 [FOAM](https://www.foam.space/)
 
-[XYO](https://xyo.network/network/): "location... is very, very important, because location or proximity is one of the few heuristics we found that's actually co-optable by two parties" [founder's interview](https://mapscaping.com/blogs/the-mapscaping-podcast/proof-of-location-bringing-the-blockchain-to-the-real-world)
+[XYO](https://xyo.network/network/): "location... is very, very important, because location or proximity is one of the few heuristics we found that's actually co-optable by two parties" ([founder's interview](https://mapscaping.com/blogs/the-mapscaping-podcast/proof-of-location-bringing-the-blockchain-to-the-real-world))
 
 [Animist](http://animist.io/)
 
